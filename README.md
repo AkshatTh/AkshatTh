@@ -24,6 +24,6 @@ I am a Computer Science undergrad at SRMIST capable of building scalable web app
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=AkshatTh](https://github-readme-stats.vercel.app/api?username=AkshatTh)&show_icons=true&theme=tokyonight&hide_border=true" alt="AkshatTh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatTh&show_icons=true&theme=tokyonight&hide_border=true" alt="AkshatTh" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatTh&layout=compact&theme=tokyonight&hide_border=true" alt="AkshatTh" />
 </p>
